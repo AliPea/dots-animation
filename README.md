@@ -1,3 +1,3 @@
 # dots-animation
 
-# Easy animation using keyframes
+## Easy animation using keyframes
